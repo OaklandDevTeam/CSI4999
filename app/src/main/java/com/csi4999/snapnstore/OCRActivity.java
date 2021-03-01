@@ -185,7 +185,7 @@ public class OCRActivity extends AppCompatActivity {
             }
         }
 
-       /* //Iterates through array list and assign this shit to string = "str", make toast on screen, it works boys, Dr. Z can fuck off, jk he's cool tho
+       /* //Iterates through array list and assign this shit to string = "str", make toast on screen
         str="";
         for (int i = 0; i < blocks.size(); i++) {
             List<FirebaseVisionText.Line> lines = blocks.get(i).getLines();
